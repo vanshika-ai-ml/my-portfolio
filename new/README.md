@@ -50,6 +50,7 @@ my-portfolio/
 ├── contact.html
 ├── style.css
 └── README.md
+```
 
 
 ## 🎯 Features
