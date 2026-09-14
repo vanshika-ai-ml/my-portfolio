@@ -29,6 +29,7 @@ A Python-based Flappy Bird game with Human and AI modes. The AI uses a decision-
 
 **Technologies:** Python, Pygame, AI, Matplotlib
 
+
 ## 🛠️ Technologies Used
 
 - HTML5
@@ -50,6 +51,7 @@ my-portfolio/
 ├── style.css
 └── README.md
 
+
 ## 🎯 Features
 
 - Clean and simple design
@@ -63,4 +65,4 @@ my-portfolio/
 ## 👩‍💻 Author
 
 **Vanshika**  
-B.Tech CSE Student | AI & ML Enthusiast | Python Developer
+B.Tech CSE Student | AI & ML Enthusiast | Web Developer
